@@ -1,0 +1,13 @@
+ion-icon {
+    color: var(--ion-color-danger-shade);
+}
+
+ion-card {
+    ion-card-subtitle {
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    p {
+        white-space: normal;
+    }
+}
